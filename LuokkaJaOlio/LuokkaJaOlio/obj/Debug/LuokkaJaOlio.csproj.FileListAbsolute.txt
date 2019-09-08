@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LuokkaJaOlio\LuokkaJaOlio\bin\Debug\LuokkaJaOlio.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LuokkaJaOlio\LuokkaJaOlio\bin\Debug\LuokkaJaOlio.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LuokkaJaOlio\LuokkaJaOlio\bin\Debug\LuokkaJaOlio.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LuokkaJaOlio\LuokkaJaOlio\obj\Debug\LuokkaJaOlio.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LuokkaJaOlio\LuokkaJaOlio\obj\Debug\LuokkaJaOlio.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LuokkaJaOlio\LuokkaJaOlio\obj\Debug\LuokkaJaOlio.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LuokkaJaOlio\LuokkaJaOlio\obj\Debug\LuokkaJaOlio.pdb

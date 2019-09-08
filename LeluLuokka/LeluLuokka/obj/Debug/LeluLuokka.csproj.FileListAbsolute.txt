@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LeluLuokka\LeluLuokka\bin\Debug\LeluLuokka.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LeluLuokka\LeluLuokka\bin\Debug\LeluLuokka.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LeluLuokka\LeluLuokka\bin\Debug\LeluLuokka.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LeluLuokka\LeluLuokka\obj\Debug\LeluLuokka.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LeluLuokka\LeluLuokka\obj\Debug\LeluLuokka.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LeluLuokka\LeluLuokka\obj\Debug\LeluLuokka.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\LeluLuokka\LeluLuokka\obj\Debug\LeluLuokka.pdb

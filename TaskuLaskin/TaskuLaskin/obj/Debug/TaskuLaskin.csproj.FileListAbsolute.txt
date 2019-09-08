@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\TaskuLaskin\TaskuLaskin\bin\Debug\TaskuLaskin.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\TaskuLaskin\TaskuLaskin\bin\Debug\TaskuLaskin.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\TaskuLaskin\TaskuLaskin\bin\Debug\TaskuLaskin.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\TaskuLaskin\TaskuLaskin\obj\Debug\TaskuLaskin.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\TaskuLaskin\TaskuLaskin\obj\Debug\TaskuLaskin.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\TaskuLaskin\TaskuLaskin\obj\Debug\TaskuLaskin.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\TaskuLaskin\TaskuLaskin\obj\Debug\TaskuLaskin.csprojAssemblyReference.cache

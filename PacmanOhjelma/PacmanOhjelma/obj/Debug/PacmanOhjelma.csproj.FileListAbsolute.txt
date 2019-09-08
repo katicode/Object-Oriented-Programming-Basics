@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\PacmanOhjelma\PacmanOhjelma\bin\Debug\PacmanOhjelma.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\PacmanOhjelma\PacmanOhjelma\bin\Debug\PacmanOhjelma.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\PacmanOhjelma\PacmanOhjelma\bin\Debug\PacmanOhjelma.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\PacmanOhjelma\PacmanOhjelma\obj\Debug\PacmanOhjelma.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\PacmanOhjelma\PacmanOhjelma\obj\Debug\PacmanOhjelma.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\PacmanOhjelma\PacmanOhjelma\obj\Debug\PacmanOhjelma.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\PacmanOhjelma\PacmanOhjelma\obj\Debug\PacmanOhjelma.pdb

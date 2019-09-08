@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\hummaohjelma\hummaohjelma\bin\Debug\hummaohjelma.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\hummaohjelma\hummaohjelma\bin\Debug\hummaohjelma.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\hummaohjelma\hummaohjelma\bin\Debug\hummaohjelma.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\hummaohjelma\hummaohjelma\obj\Debug\hummaohjelma.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\hummaohjelma\hummaohjelma\obj\Debug\hummaohjelma.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\hummaohjelma\hummaohjelma\obj\Debug\hummaohjelma.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\hummaohjelma\hummaohjelma\obj\Debug\hummaohjelma.pdb

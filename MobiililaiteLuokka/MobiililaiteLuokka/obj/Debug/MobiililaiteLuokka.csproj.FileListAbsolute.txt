@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\MobiililaiteLuokka\MobiililaiteLuokka\obj\Debug\MobiililaiteLuokka.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\MobiililaiteLuokka\MobiililaiteLuokka\obj\Debug\MobiililaiteLuokka.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\MobiililaiteLuokka\MobiililaiteLuokka\bin\Debug\MobiililaiteLuokka.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\MobiililaiteLuokka\MobiililaiteLuokka\bin\Debug\MobiililaiteLuokka.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\MobiililaiteLuokka\MobiililaiteLuokka\bin\Debug\MobiililaiteLuokka.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\MobiililaiteLuokka\MobiililaiteLuokka\obj\Debug\MobiililaiteLuokka.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\MobiililaiteLuokka\MobiililaiteLuokka\obj\Debug\MobiililaiteLuokka.pdb

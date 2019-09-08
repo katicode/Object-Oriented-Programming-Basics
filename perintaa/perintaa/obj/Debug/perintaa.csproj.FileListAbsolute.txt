@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\perintaa\perintaa\bin\Debug\perintaa.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\perintaa\perintaa\bin\Debug\perintaa.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\perintaa\perintaa\bin\Debug\perintaa.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\perintaa\perintaa\obj\Debug\perintaa.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\perintaa\perintaa\obj\Debug\perintaa.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\perintaa\perintaa\obj\Debug\perintaa.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\perintaa\perintaa\obj\Debug\perintaa.pdb

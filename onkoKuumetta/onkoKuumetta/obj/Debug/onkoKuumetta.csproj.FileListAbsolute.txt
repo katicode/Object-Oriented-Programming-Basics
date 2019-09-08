@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\onkoKuumetta\onkoKuumetta\bin\Debug\onkoKuumetta.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\onkoKuumetta\onkoKuumetta\bin\Debug\onkoKuumetta.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\onkoKuumetta\onkoKuumetta\bin\Debug\onkoKuumetta.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\onkoKuumetta\onkoKuumetta\obj\Debug\onkoKuumetta.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\onkoKuumetta\onkoKuumetta\obj\Debug\onkoKuumetta.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\onkoKuumetta\onkoKuumetta\obj\Debug\onkoKuumetta.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\onkoKuumetta\onkoKuumetta\obj\Debug\onkoKuumetta.pdb

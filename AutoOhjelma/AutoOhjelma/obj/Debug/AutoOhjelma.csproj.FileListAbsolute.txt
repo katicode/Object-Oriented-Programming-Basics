@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\AutoOhjelma\AutoOhjelma\obj\Debug\AutoOhjelma.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\AutoOhjelma\AutoOhjelma\obj\Debug\AutoOhjelma.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\AutoOhjelma\AutoOhjelma\bin\Debug\AutoOhjelma.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\AutoOhjelma\AutoOhjelma\bin\Debug\AutoOhjelma.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\AutoOhjelma\AutoOhjelma\bin\Debug\AutoOhjelma.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\AutoOhjelma\AutoOhjelma\obj\Debug\AutoOhjelma.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\AutoOhjelma\AutoOhjelma\obj\Debug\AutoOhjelma.pdb

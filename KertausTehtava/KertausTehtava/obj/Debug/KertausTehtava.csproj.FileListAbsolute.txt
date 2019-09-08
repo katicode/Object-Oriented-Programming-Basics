@@ -1,0 +1,7 @@
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\KertausTehtava\KertausTehtava\bin\Debug\KertausTehtava.exe.config
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\KertausTehtava\KertausTehtava\bin\Debug\KertausTehtava.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\KertausTehtava\KertausTehtava\bin\Debug\KertausTehtava.pdb
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\KertausTehtava\KertausTehtava\obj\Debug\KertausTehtava.csprojAssemblyReference.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\KertausTehtava\KertausTehtava\obj\Debug\KertausTehtava.csproj.CoreCompileInputs.cache
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\KertausTehtava\KertausTehtava\obj\Debug\KertausTehtava.exe
+C:\Users\Kati\Koulujutut\Olio-ohjelmoinnin perusteet\KertausTehtava\KertausTehtava\obj\Debug\KertausTehtava.pdb
